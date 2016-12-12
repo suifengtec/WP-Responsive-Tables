@@ -100,9 +100,9 @@ It works fine when `wp_is_mobile()` return `true`.
 
 ## Screenshot
 
-Mobile devices:
+* Mobile devices:
 ![](https://raw.githubusercontent.com/suifengtec/WP-Responsive-Tables/master/screenshot-1.jpg)
-Tablet devices:
+* Tablet devices:
 ![](https://raw.githubusercontent.com/suifengtec/WP-Responsive-Tables/master/screenshot-2.jpg)
-Desktop:
+* Desktop:
 ![](https://raw.githubusercontent.com/suifengtec/WP-Responsive-Tables/master/screenshot-3.jpg)
