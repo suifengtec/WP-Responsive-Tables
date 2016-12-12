@@ -3,7 +3,7 @@
  * @Author: suifengtec
  * @Date:   2016-12-12 14:52:33
  * @Last Modified by:   suifengtec
- * @Last Modified time: 2016-12-12 17:39:20
+ * @Last Modified time: 2016-12-12 17:54:19
  */
 /**
  * Plugin Name: WP Responsive Tables
@@ -11,7 +11,7 @@
  * Description: Responsive tables by given css selectors.
  * Author: suifengtec
  * Author URI: https://coolwp.com
- * Version: 0.9.0
+ * Version: 1.0.0
  * Text Domain: cwp
  * Domain Path: /languages/
  *

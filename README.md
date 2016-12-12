@@ -96,7 +96,7 @@ Load your table selectors by  using the filter hook `coolwp_responsive_table_sel
 
 ## Tips
 
-It works fine when `wp_is_mobile()` return `true`.
+It works fine when `wp_is_mobile()` return `true` by default, you can use hook `coolwp_responsive_table_enabled` filter it.
 
 ## Screenshot
 
